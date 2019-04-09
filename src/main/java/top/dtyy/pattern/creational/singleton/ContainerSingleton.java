@@ -1,5 +1,6 @@
 package top.dtyy.pattern.creational.singleton;
 
+
 import org.apache.commons.lang3.StringUtils;
 
 import java.util.HashMap;
